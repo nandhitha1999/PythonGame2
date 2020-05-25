@@ -1,2 +1,8 @@
 # PythonGame2
-The popular Hangman Game Logic developed using Python
+
+HANGMAN GAME LOGIC using Python
+
+The Hangman is a popular game which 90's kid could never have missed to play!
+
+
+
